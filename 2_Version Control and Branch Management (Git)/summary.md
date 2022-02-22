@@ -34,6 +34,7 @@ Dengan fitur branching, kita bisa membuat banyak cabang yang independen terhadap
 ## _Task_
 Pada task ini, mengimplementasikan konsep `Branching` and `Merging` dalam Github
 Berikut link implementasi dari hasil praktikum ini :
+
 [network graph](https://github.com/UlilAmbri/latihan/network)
 Output :
 ![this is an image](https://raw.githubusercontent.com/UlilAmbri/uiux_ulilambri-/master/2_Version%20Control%20and%20Branch%20Management%20(Git)/Screenshoots/Tugas%20Pratikum.png?token=GHSAT0AAAAAABRTDEEU5FMWNUQYMV4PZCX4YQUVBJQ)
