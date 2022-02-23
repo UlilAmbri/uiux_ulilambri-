@@ -9,7 +9,7 @@ Pada materi ini, saya mempelajari :
 ```
 
 ## _Apa itu UI/UX ?_
-#####_User Interface_
+> _User Interface_
 Tampilan visual sebuah aplikasi digital untuk menampilkan informasi kepada user.
 #####_User Experience_
 Pengalaman seseorang dalam menggunakan suatu aplikasi.
@@ -26,21 +26,21 @@ Ada beberapa Tahap pada Design Thinking, yaitu :
 - Test      : Proses mencoba solusi interface yang sudah dibuat untuk user untuk mendapatkan data dari solusi yang kita buat nantinya.
 ```
 ## _Jenis Prototype & Jenis Test_
-#####_Jenis Prototype_
+> _Jenis Prototype_
 Ada beberapa Jenis Prototype, yaitu :
 ```
 - Low Fidelity
 - Medium Fidelity
 - High Fidelity
 ```
-#####_Jenis Test_
+> _Jenis Test_
 Ada beberapa Jenis Test, yaitu :
 ```
 - Offline User Testing : Dengan menggunakan Low Fidelity interface untuk melakukan testing.
 - Guerilla Testing     : Dilakukan di tempat umum yang telah disepakati antar kedua bela pihak.
 - Online User Testing   : Dilakukan secara online melalui video call atau menggunakan tools lainnya.
 ```
-#####_Software yang digunakan_
+> _Software yang digunakan_
 Ada beberapa jenis dokumentasi dan analisa, yaitu :
 ```
 - Google Docs
