@@ -11,9 +11,9 @@ Pada materi ini, saya mempelajari :
 ## _Apa itu UI/UX ?_
 > _User Interface_
 Tampilan visual sebuah aplikasi digital untuk menampilkan informasi kepada user.
-#####_User Experience_
+> _User Experience_
 Pengalaman seseorang dalam menggunakan suatu aplikasi.
-#####_UI/UX Design_
+> _UI/UX Design_
 Sebuah proses membuat tampilan aplikasi maupun website untuk memudahkan pengguna nantinya.
 
 ## _Design Thinking_
