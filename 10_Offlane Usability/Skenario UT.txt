@@ -1,0 +1,19 @@
+## Skenario Usability Testing 
+ 
+# Goal: 
+User dapat melihat detail dari masing-masing produk yang ada di dalam Card List
+ 
+# Tools: 
+- Alat rekam (screen recorder windows, kamera Hp) 
+- Timer (stopwatch hp) 
+- Laptop dll (charger, colokan, data, dll) 
+- Notes(untuk mencatat tingkah laku dan jawab dari user nanti)
+- Pastikan semua perlengkapan dalam keadaan siap pakai 
+ 
+# User Criterias: 
+- User pernah melakukan transaksi belanja online 
+- User menggunakan marketplace untuk membeli produk 
+ 
+# Intro: 
+Sebelumnya saya ucapkan terima kasih kepada 'nama user'], yang telah menyempatkan waktu untuk menjadi Partisipan dari prototype design aplikasi yang sedang kami kembangkan. Sebelum mencoba prototype design aplikasi ini, saya akan menyampaikan skenarionya kepada anda. Mohon untuk dipahami: 
+"Anda adalah seorang yang akan membeli produk fashion di aplikasi ini lalu Anda ingin melihat detail dari produk yang akan Anda beli di aplikasi ini nantinya. Silakan menggunakan aplikasi ini untuk melihat detail dari produk yang Anda inginkan dan anda ingin beli."
