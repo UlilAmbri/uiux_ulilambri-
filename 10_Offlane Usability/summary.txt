@@ -1,0 +1,85 @@
+# 10 Offlane Usability
+
+## _Resume_
+Pada materi ini, saya mempelajari :
+```
+1. Apa itu Usability Testing
+2. Pesiapan Usability Testing
+3. Contoh skenario usability testing
+```
+
+## _Apa itu Usability Testing_
+#####_Usability Testing_
+Dimana researcher memberi skenario kepada target user untuk menyelesaikan beberapa tugas terhadap suatu design prototype.
+#####_Kapan kita melakukan Usability Testing_
+Ada beberapa fase UT, yaitu :
+```
+1. Fase Awal   : Identifikasi
+2. Fase Tengah : Developing/MVP Product
+3. Fase Akhir  : Sebelum release ke market
+```
+#####_Kenapa harus Usability Testing_
+yaitu untuk menemukan masalah, menemukan kesempatan dan mempelajari kebiasan user.
+#####_Usability Member Team_
+```
+1. Faciliator   : Guide the participant
+2. Note taker   : Write all note form usability
+3. Participants : Realistic user based on target
+```
+#####_Lokasi Usability Testing_
+Ada beberapa cara, yaitu :
+```
+1. Guerilla          : Dimana saja
+2. Online            : Moderated/Unmoderated
+3. Setup environment : Kantor atau lingkingan yang terkontrol
+```
+
+## _Pesiapan Usability Testing_
+#####_Mempersiapkan Usability Testing_
+```
+1. Persiapan
+2. Usability Testing
+3. Mengelola insight Usability Testing
+```
+
+#####_Persiapan_
+```
+1. Menentukan Target User kita
+2. Memilih Metric
+3. Membuat skenario yang akan dilalui user nantinya
+4. Menyiapkan Prototype sudah clickable semua
+5. Menentukan Team untuk UT
+6. Menyiapkan Team
+```
+
+#####_Usability Testing_
+```
+1. Metode thinking out loud
+2. 3 level of why
+3. Jangan mengarahkan user
+4. Dengarkan dan perhatikan dengan seksama dari awal user mulai sampai akhir
+```
+
+#####_Mengelola hasil Usability Testing_
+```
+1. Tulis semua insight yang didapat dari user hasil UT
+2. Cari pola
+3. Tentukan skala prioritas yang akan dibuat untuk tahap selanjutnya
+```
+
+## _Contoh skenario usability testing_
+Usability Testing
+Goal : user dapat membandingkan perbedaan dalam mencari informasi material dan ukuran lebih mudah ketika berada dihalaman produk detail
+Tools :
+- Pastikan badan dan pikiran dalam kondisi yang fit!
+- Alat rekaman (Handphone, Kamera)
+- Laptop
+- Timer (Handphone, etc)
+- Notes, alat tulis
+- Feels the emotion seperti kenapa dia klik tombol back, liat raut dan emosinya (fasiliator only)
+- Charger, roll cable, power bank, dll
+- Pastikan semua barang-barang terisi penuh baterainya
+User Criterias:
+- User sering belanja online di ABC. Kali ini memilih anak buyer karena hanya berupa perubahan kecil yang terdapat di halaman detail produk
+Intro:
+Selamat(Pagi/siang/sore)Ibu perkenalkan nama saya Ulil dari tim riset ABC. Terima kasih Ibu sudah mau menyempatkan waktunya untuk bertemu dengan kami.
