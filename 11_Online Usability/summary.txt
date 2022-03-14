@@ -1,0 +1,64 @@
+# 11 Online Usability
+
+## _Resume_
+Pada materi ini, saya mempelajari :
+```
+1. Kelebihan Usability Testing
+2. Persiapan Usability Testing
+3. Menganalisa Hasil Online Usability Testing
+```
+
+## _Kelebihan Online Usability Testing_
+#####_Kelebihan_
+```
+1. Dapat menemukan user dengan mudah dan cepat
+2. Lebih cepat dan lebih murah
+3. Jangkauan user yang sangat luas
+4. Efesien
+```
+
+## _Pesiapan Usability Testing_
+#####_Mempersiapkan Usability Testing_
+```
+1. Persiapan
+2. Usability Testing
+3. Mengelola insight Usability Testing
+```
+#####_Persiapan_
+```
+1. Figma
+2. Maze
+```
+
+#####_Persiapan_
+```
+1. Membuat clickable prototype di Figma terlebih dahulu
+2. Setup Block Skenario di Maze untuk guide user nantinya
+3. Jalankan dan share link online UT kepada user sesuai persona
+```
+## _Menganalisa Hasil Online Usability Testing_
+#####_Jenis-jenis Block Skenario_
+```
+1. Mission
+2. Yes/No
+3. Opinion Scale
+4. Multiple Choice
+5. Open Question
+6. Context Screen
+7. Tree Test
+8. Card Sort
+9. 5-Second Test
+10. Legal Screen
+```
+
+#####_Discovery Usability Testing_
+Sebuah metode untuk menggali insight dari user terhadap 1 tampilan.
+
+#####_General Tips_
+```
+1. Buat Misi sesimple mungkin
+2. Ikuti user flow yang sudah dirancang sebelumnya
+3. pastikan prototype anda berjalan dengan lancar sesuai dengan rancangan anda inginkan
+4. Hindari bahasa teknis
+5. Tentukan Parameter hasil dari testing anda
+```
