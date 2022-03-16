@@ -1,0 +1,50 @@
+# 12 UX/UI Engginer-HTML
+
+## _Resume_
+Pada materi ini, saya mempelajari :
+```
+1. Apa itu Front-End ?
+2. Apa itu HTML ?
+3. Apa itu CSS ?
+```
+
+## _Apa itu Front-End ?_
+#####_Frontend_
+Adalah sebuah bagian dari website yang membuat tampilan menarik dilihat oleh user nantinya.
+
+## _Apa itu HTML ?_
+#####_HTML(Hypertext Markup Language)_
+adalah sebuah standar yang digunakan secara luas untuk menampilkan halaman web yang akan kita buat nantinya.
+
+#####_Kegunaan HTML_
+```
+1. Membuat struktur dari halaman website
+2. Membuat tabel dengan tag HTML table
+3. Membuat form HTML
+4. Membuat gambar dengan canvas
+5. Mengatur tampilan dan isi dari halaman web
+6. Mempublikasikan halaman website secara online
+```
+
+#####_Apa Saja HTML Editors ?_
+```
+1. Notepad
+2. Notepad++
+3. Sublime Text
+4. Atom
+5. Visual Studio Code 
+```
+
+#####_Apa Saja HTML Editors ?_
+Dokumentasi HTML yaitu :
+```
+1. <!DOCTYPE html> -> Mendefinisikan dokumen ini sebagai HTML5
+2. <html>          -> Elemen root dari halaman HTML
+3. <head>          -> Berisi informasi meta tentang dokumen
+4. <title>         -> Menentukan judul untuk dokumen
+5. <body>          -> Berisi konten halaman yang terlihat
+```
+
+## _Apa itu CSS ?_
+#####_CSS(Cascading Style Sheets)_
+ Berguna untuk menyederhanakan proses pembuatan website dengan mengatur elemen yang tertulis di bahasa markup.
