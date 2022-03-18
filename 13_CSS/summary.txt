@@ -1,0 +1,67 @@
+# 13 CSS
+## Resume
+Dalam materi ini mempelajari tentang :
+1. Struktur CSS
+2. Kegunaan CSS
+3. Fitur fitur CSS
+
+## Struktur CSS
+Cara menambahkan CSS ke dalam HTML :
+1. External CSS
+```sh
+<link rel=”stylesheet” href=”main.css”>
+```
+2. Internal CSS
+```sh
+<style>
+body {
+  background-color: #19355f;
+}
+h1 {
+  color: #f47523;
+  margin-left: 40px;
+}
+</style>
+```
+3. Inline CSS
+```sh
+<h1 style=”color: #19355f;”>Hello World</h1>
+```
+
+### Syntax CSS
+```sh
+h1{ color: pink; font-size: 15px; }
+```
+## Kegunaan CSS
+1. Dapat menghias halaman web (color, size, font, background, width, height, dll).
+2. Dapat mengatur posisi pada halaman web. (float, align, display, position, dll).
+
+## Fitur fitur CSS
+1. CSS selector
+Pola yang digunakan untuk memilih element, yang ingin di styling.
+Menggunakan selector id(#) dan class(.)
+
+2. CSS Grouping
+ Beberapa selector dapat dikelompokkan dalam satu deklarasi style.
+<selector>,<selector>
+
+3. CSS Font
+Memberi ukuran, jenis font dll
+
+4. CSS margin and padding
+Membuat ruang disekitar element
+
+5. CSS background
+Mengatur warna background, ukuran background, posis background, dll
+
+6. CSS Link
+Mengatur elemen link yang telah dibuat
+
+7. CSS display
+Menentukan tampilan pada elemen, ada inline, block , inline block dan none
+
+8. CSS  table
+Membuat style pada elemen tabel HTML
+
+
+   
