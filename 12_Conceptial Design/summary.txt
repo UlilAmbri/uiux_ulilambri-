@@ -1,0 +1,36 @@
+# 12 Conceptial Design
+
+## _Resume_
+Pada materi ini, saya mempelajari :
+```
+1. Keep is Short and Simple (KISS)
+2. Make it easy to Understand
+3. Make Progress to User Visible, Make Progress Meaningful in Order to Reward User, & Make Successful Completion Clearly Visible
+```
+
+## _Keep is Short and Simple (KISS)_
+```
+1. Lihatlah setiap kata dan kalimat
+2. Pertimbangkan untuk menggunakan metafora multi-indera yang memanfaatkan lebih banyak zona memori
+3. Uji pada semua jenis orang lain
+```
+
+##_Make it easy to Understand_
+```
+1. Buat strategi visual yang konsisten
+2. Gunakan lebih banyak bentuk daripada garis
+3. Gunakan animasi untuk mendorong interaksi
+4. Gunakan kosakata yang tepat
+5. Pecahkan pola bila perlu
+```
+#####_Make Progress to User Visible_
+```
+1. Kurangi ketidakpastian pengguna
+2. Menawarkan alasan untuk menunggu dan mengurangi persepsi pengguna tentang waktu
+```
+
+#####_Make Progress Meaningful in Order to Reward User_
+Setiap hari kita diganjar walaupun kita tidak menyadarinya
+
+#####_Make Successful Completion Clearly Visible_
+Indikator kemajuan persen-selesai adalah jenis umpan balik animasi tunggu yang paling informatif. Hindari menggunakan indikator kemajuan statis

@@ -1,0 +1,26 @@
+# 13 Conceptial Design
+
+## _Resume_
+Pada materi ini, saya mempelajari :
+```
+1. Foog Behavior Model
+2. Make it easy to Understand
+3. Balancing
+4. Design for Behavior
+```
+
+## _Foog Behavior Model_
+Fogg adalah konsep yang dirancang untuk menjelaskan tingkat adopsi produk oleh masyarakat konsumen tetapi juga dapat diterapkan ke berbagai aplikasi
+
+##_Foog Behavior Grid_
+Masing-masing dari 15 jenis perilaku menggunakan strategi psikologi dan teknik persuasif yang berbeda
+
+##_Balancing_
+katakanlah perilaku itu terjadi jika Anda memiliki sejumlah jika motivasi menurun, Anda perlu meningkatkan kemampuan agar perilaku itu terjadi
+
+##_Design for Behavior_
+```
+1. pahami motivasi pengguna Anda
+2. berusaha untuk kesederhanaan, membuat hal-hal lebih mudah untuk dilakukan
+3. mengidentifikasi petunjuk yang bermakna dan menggunakannya pada waktu yang tepat
+```
