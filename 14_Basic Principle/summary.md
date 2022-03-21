@@ -9,7 +9,7 @@ Pada materi ini, saya mempelajari :
 ```
 
 ## _Design Language_
-##_Skeuomorphic_
+- Skeuomorphic
 Dalam desain produk, kami mendefinisikan skeuomorphic yang digunakan dalam desain UI di mana objek, ikon, dan tombol meniru rekan-rekan mereka di dunia nyata.
 ```
 Kerugian
@@ -18,7 +18,7 @@ Kerugian
 3. Waktu pemuatan lebih lama dan lebih banyak bandwidth yang dikonsumsi
 ```
 
-##_Flat Design_
+- Flat Design
 Minimalis pada intinya, tujuan di balik bahasa ini adalah untuk menghilangkan semua elemen dekoratif murni dan menjadikan desainnya murni utilitarian
 ```
 Kekurangan
