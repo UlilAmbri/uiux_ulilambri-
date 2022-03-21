@@ -1,4 +1,4 @@
-# 13 Conceptial Design
+# 13 Behavior Change Strategies
 
 ## _Resume_
 Pada materi ini, saya mempelajari :
