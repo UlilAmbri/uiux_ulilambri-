@@ -26,7 +26,7 @@ Kekurangan
 2. Lebih sulit untuk memprediksi bagaimana elemen akan berperilaku
 ```
 
-#####_Material Design_
+- Material Design 
 Sistem desain ini adalah interpretasi yang lebih seimbang dari flat 2.0 dan mencoba untuk mengawinkan dunia nyata dan digital.
 Desain Material adalah tentang menggunakan sebagian besar elemen datar dengan sentuhan 3D yang halus
 ```
@@ -36,43 +36,43 @@ Kekurangan
 ```
 
 ## _10 Pricinple of Good Design_
-##_Innovative_
+- Innovative
 Implementasi praktis dari ide-ide yang menghasilkan pengenalan barang atau jasa baru atau peningkatan dalam menawarkan barang atau jasa
 
 ##_Make a product useful_
 Desain yang baik menekankan fakta bahwa produk memecahkan masalah dengan cara yang bermanfaat
 
-##_Aesthetic_
+- Aesthetic
 Termasuk faktor-faktor seperti keseimbangan, warna, gerakan, pola, skala, bentuk, dan bobot visual
 
-##_Makes a product understandable_
+- Makes a product understandable
 Tidak ada yang dirancang lebih baik daripada produk yang menjelaskan dirinya sendiri dan begitu juga dalam produk digital
 
 ##_Honest_
 Produk digital tidak boleh memanipulasi cara pengguna akhir akan berinteraksi dengannya untuk menghindari timbulnya frustrasi yang tidak perlu
 
-##_Long-lasting_
+- Long-lasting
 Merancang produk yang bertahan tidak hanya berarti bahwa mereka tidak secara ketat mengikuti tren saat ini tetapi juga mereka menetapkan tren mereka sendiri, dengan selalu mempertimbangkan pengguna
 
-##_Thorough down to the last detail_
+- Thorough down to the last detail
 Seperti pepatah lama mengatakan "Iblis ada dalam detail" dan sebagai desainer kita harus mencoba untuk selalu melihat gambaran yang lebih besar untuk menghindari semua elemen kecil yang tampak sederhana pada pandangan pertama bisa menjadi
 
-##_Environmwntally friendly_
+- Environmwntally friendly
 Meskipun pada pandangan pertama, ini harus menjadi referensi yang jelas untuk cara kita berpikir dan merancang produk fisik, ada cara untuk membantu planet kita saat merancang produk digital juga.
 
-##_As little design as possible_
+- As little design as possible
 Bangun gerakan minimalis dalam arsitektur, itu juga mengatur garis untuk mencari cara menemukan kembali cara kita mendesain produk hari ini
 
 
 ## _Color Theory_
-##_Color wheel_
+- Color wheel
 Lingkaran warna biasanya dibangun dari warna primer, sekunder dan tersier. Yang utama adalah tiga warna pigmen yang tidak dapat dibentuk oleh kombinasi warna lain apa pun
 
-##_Color models_
+- Color models
 Model warna aditif menganggap warna merah, biru, dan hijau sebagai warna primer sehingga disebut juga dengan sistem warna RGB.
 Model warna subtraktif memperoleh warna dengan pengurangan cahaya. Ini terdiri dari dua sistem warna
 
-######_Color harmony_
+- Color harmony
 Harmoni warna adalah tentang pengaturan warna dalam desain dengan cara yang paling menarik dan efektif untuk persepsi pengguna
 ```
 1. Split-Complementary
