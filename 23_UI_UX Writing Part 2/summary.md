@@ -8,7 +8,7 @@ Pada materi ini, saya mempelajari :
 ```
 
 # Bagaimana cara membuat konten yang efektif ?
-### Mengapa sebagai desainer itu harus bisa menulis?
+### Mengapa sebagai desainer itu harus bisa menulis ?
 Menulis dapat membuat kamu menjadi seorang desainer yang...
 ```
 1. Lebih pandai
@@ -23,7 +23,7 @@ diperlukan seorang desainer adalah menulis.
 ### Menulis bagi kebanyakan orang, termasuk desainer, itu menyulitkan
 Copywrite pada website atau aplikasi klien kamu adalah salah satu aspek terpenting dari sebuah desain.
 
-# Bagaimana para ahli dari bidangyang baru ini menyusun sebuah penulisan UX yang baik?
+# Bagaimana para ahli dari bidangyang baru ini menyusun sebuah penulisan UX yang baik ?
 ### Ada 10 tips yang bisa dipelajari
 ```
 1. Riset audiens dan eksplorasi tindakan yang mereka maksudkan
