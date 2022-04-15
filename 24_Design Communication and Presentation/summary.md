@@ -12,7 +12,7 @@ Pada materi ini, saya mempelajari :
 ### Komunikasi yang Efektif, itu gimana ?
 Komunikasi antara dua orang atau lebih dengan tujuan untuk meyampaikan, menerima dan memahami pesan dengan baik.
 
-### Apa yang membuat komunikasi menjadi efektif?
+### Apa yang membuat komunikasi menjadi efektif ?
 ```
 1. Mengetahui audiens.
 2. Memahami kebutuhan.
