@@ -9,7 +9,7 @@ Pada materi ini, saya mempelajari :
 ```
 
 # Portofolio secara umum
-### Bagaimana membangun sebuah portofolio yang baik sebagai desainer UX/UI ?
+### Bagaimana membangun sebuah portofolio yang baik sebagai desainer UX/UI
 Seringkali, banyak desainer UX dan UI hanya menampilkan hasil karya nya saja tanpa menampilkan proses di balik karya nya tersebut. Hal ini akan mempengaruhi faktor apakah kemampuan desainer tersebut bisa dinilai dengan tepat oleh HR atau rekruter, bahkan kemungkinan hanya akan dilewati tanpa dibaca terlebih dahulu.
 
 # Struktur portofolio seorang UX Desainer
